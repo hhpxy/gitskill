@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="130419JavaBean"
+  id="myeclipse.1511784047229"
+  context-root="/130419JavaBean"
+  j2ee-spec="5.0"
+  archive="130419JavaBean.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
